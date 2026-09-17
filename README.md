@@ -1,4 +1,4 @@
-# VELOOP Rewards  Content Writing Task (Part 01)
+# VELOOP Rewards – Content Writing Task (Part 01)
 
 VELOOP Rewards is a **rewards app** and digital engagement platform where users can **earn money online** through simple daily activities.
 
@@ -8,7 +8,7 @@ VELOOP Rewards is a **rewards app** and digital engagement platform where users 
 
 ### What is VELOOP Rewards?
 
-VELOOP Rewards is a **rewards app** and engagement platform where you can **earn digital rewards** simply by staying active every day. Instead of relying on just one way to earn, VELOOP brings together several **earning features**  from **watching ads and earning**, daily streaks, and a **referral earning program**, to fun mini-games  so there's always something new to try.
+VELOOP Rewards is a **rewards app** and engagement platform where you can **earn digital rewards** simply by staying active every day. Instead of relying on just one way to earn, VELOOP brings together several **earning features** — from **watching ads and earning**, daily streaks, and a **referral earning program**, to fun mini-games — so there's always something new to try.
 
 Every activity you complete adds VEs (VELOOP Earn Tokens) to your account. These can later be redeemed based on the platform's **reward points** and redemption policies. Whether you have five minutes or an hour to spare, VELOOP makes it easy to turn everyday actions into real rewards through this **gamified rewards platform**.
 
@@ -46,7 +46,7 @@ Students, freelancers, working professionals, homemakers, or anyone looking for 
 
 ## 2. Registration & Authentication
 
-Getting started with VELOOP Rewards — a **secure rewards app** takes less than a minute.
+Getting started with VELOOP Rewards — a **secure rewards app** — takes less than a minute.
 
 **Two ways to sign up:**
 
@@ -74,7 +74,7 @@ Once you log in, the Dashboard is your home base for this **rewards and earning 
 
 From here you can see your Available VEs and your Available Balance (an estimate of your redeemable value), plus a shortcut straight to your Wallet for transaction history and **reward redemption options**.
 
-The Dashboard's real job is navigation. It's your gateway to every **earning feature**: Watch Ads, Daily Streak, Referral, Mine & Earn, Stake & Earn, Tap & Earn, Contribution, Giveaway, Profile, and Wallet. Instead of overwhelming you with everything at once, VELOOP keeps each activity in its own clean, focused screen, so you always know where you are and what to do next.
+The Dashboard's real job is navigation. It's your gateway to every earning feature: Watch Ads, Daily Streak, Referral, Mine & Earn, Stake & Earn, Tap & Earn, Contribution, Giveaway, Profile, and Wallet. Instead of overwhelming you with everything at once, VELOOP keeps each activity in its own clean, focused screen, so you always know where you are and what to do next.
 
 ---
 
@@ -92,7 +92,7 @@ SVEs (Silver VEs) are a secondary currency. They can't be redeemed directly. Ins
 
 ### Understanding redemption
 
-Because VELOOP supports several **redemption options**  including **redeem gift cards** like Amazon and Google Play  the number of VEs needed changes depending on what you're redeeming. There's no single flat exchange rate. For example, UPI withdrawals require different VE amounts for different payout values:
+Because VELOOP supports several **redemption options** — including **redeem gift cards** like Amazon and Google Play — the number of VEs needed changes depending on what you're redeeming. There's no single flat exchange rate. For example, UPI withdrawals require different VE amounts for different payout values:
 
 | Withdrawal Amount | Required VEs |
 |---|---|
@@ -105,7 +105,7 @@ Because VELOOP supports several **redemption options**  including **redeem gift 
 | ₹500 | 80,500 VEs |
 | ₹1,000 | 150,000 VEs |
 
-As a rough reference only, the highest UPI tier works out to roughly 150 VEs per ₹1  this is just an estimate, not a guarantee. Your Wallet always shows the most accurate, up-to-date numbers.
+As a rough reference only, the highest UPI tier works out to roughly 150 VEs per ₹1 — this is just an estimate, not a guarantee. Your Wallet always shows the most accurate, up-to-date numbers.
 
 ### Your Wallet lets you:
 
@@ -121,7 +121,7 @@ As a rough reference only, the highest UPI tier works out to roughly 150 VEs per
 ## FAQs
 
 **Can I earn VEs every day?**
-Yes. Daily activities like watching ads, keeping your streak, and referring friends all add to your VE balance  making VELOOP a reliable **daily rewards app**.
+Yes. Daily activities like watching ads, keeping your streak, and referring friends all add to your VE balance — making VELOOP a reliable **daily rewards app**.
 
 **Are VEs transferable?**
 Not currently. VEs stay tied to your account. If that changes in future, it'll be announced through official updates.
