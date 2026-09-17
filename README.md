@@ -46,7 +46,7 @@ Students, freelancers, working professionals, homemakers, or anyone looking for 
 
 ## 2. Registration & Authentication
 
-Getting started with VELOOP Rewards — a **secure rewards app**  takes less than a minute.
+Getting started with VELOOP Rewards  a **secure rewards app**  takes less than a minute.
 
 **Two ways to sign up:**
 
@@ -121,7 +121,7 @@ As a rough reference only, the highest UPI tier works out to roughly 150 VEs per
 ## FAQs
 
 **Can I earn VEs every day?**
-Yes. Daily activities like watching ads, keeping your streak, and referring friends all add to your VE balance — making VELOOP a reliable **daily rewards app**.
+Yes. Daily activities like watching ads, keeping your streak, and referring friends all add to your VE balance  making VELOOP a reliable **daily rewards app**.
 
 **Are VEs transferable?**
 Not currently. VEs stay tied to your account. If that changes in future, it'll be announced through official updates.
