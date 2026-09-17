@@ -1,4 +1,4 @@
-# VELOOP Rewards – Content Writing Task (Part 01)
+# VELOOP Rewards Content Writing Task (Part 01)
 
 VELOOP Rewards is a **rewards app** and digital engagement platform where users can **earn money online** through simple daily activities.
 
@@ -8,7 +8,7 @@ VELOOP Rewards is a **rewards app** and digital engagement platform where users 
 
 ### What is VELOOP Rewards?
 
-VELOOP Rewards is a **rewards app** and engagement platform where you can **earn digital rewards** simply by staying active every day. Instead of relying on just one way to earn, VELOOP brings together several **earning features** — from **watching ads and earning**, daily streaks, and a **referral earning program**, to fun mini-games — so there's always something new to try.
+VELOOP Rewards is a **rewards app** and engagement platform where you can **earn digital rewards** simply by staying active every day. Instead of relying on just one way to earn, VELOOP brings together several **earning features**  from **watching ads and earning**, daily streaks, and a **referral earning program**, to fun mini-games  so there's always something new to try.
 
 Every activity you complete adds VEs (VELOOP Earn Tokens) to your account. These can later be redeemed based on the platform's **reward points** and redemption policies. Whether you have five minutes or an hour to spare, VELOOP makes it easy to turn everyday actions into real rewards through this **gamified rewards platform**.
 
@@ -46,14 +46,14 @@ Students, freelancers, working professionals, homemakers, or anyone looking for 
 
 ## 2. Registration & Authentication
 
-Getting started with VELOOP Rewards — a **secure rewards app** — takes less than a minute.
+Getting started with VELOOP Rewards — a **secure rewards app**  takes less than a minute.
 
 **Two ways to sign up:**
 
 - **Email Registration:** enter your name, email, and a password, verify your email, and you're in.
 - **Google Sign-In:** one tap, no new password to remember, and your account is secured through Google's authentication.
 
-Logging in is just as flexible. You can use Google, your email and password, or email plus OTP where available — all part of VELOOP's **secure login system**.
+Logging in is just as flexible. You can use Google, your email and password, or email plus OTP where available  all part of VELOOP's **secure login system**.
 
 ### Forgot your password? No stress:
 
@@ -92,7 +92,7 @@ SVEs (Silver VEs) are a secondary currency. They can't be redeemed directly. Ins
 
 ### Understanding redemption
 
-Because VELOOP supports several **redemption options** — including **redeem gift cards** like Amazon and Google Play — the number of VEs needed changes depending on what you're redeeming. There's no single flat exchange rate. For example, UPI withdrawals require different VE amounts for different payout values:
+Because VELOOP supports several **redemption options**  including **redeem gift cards** like Amazon and Google Play  the number of VEs needed changes depending on what you're redeeming. There's no single flat exchange rate. For example, UPI withdrawals require different VE amounts for different payout values:
 
 | Withdrawal Amount | Required VEs |
 |---|---|
@@ -105,7 +105,7 @@ Because VELOOP supports several **redemption options** — including **redeem gi
 | ₹500 | 80,500 VEs |
 | ₹1,000 | 150,000 VEs |
 
-As a rough reference only, the highest UPI tier works out to roughly 150 VEs per ₹1 — this is just an estimate, not a guarantee. Your Wallet always shows the most accurate, up-to-date numbers.
+As a rough reference only, the highest UPI tier works out to roughly 150 VEs per ₹1  this is just an estimate, not a guarantee. Your Wallet always shows the most accurate, up-to-date numbers.
 
 ### Your Wallet lets you:
 
